@@ -1,5 +1,5 @@
 ---
-name: custom-slidev-presentation
+name: yharuto-presentation-skill-for-slidev
 description: Generate Slidev decks (web-based, animated developer presentations built on Vite/Vue) using the same pastel-accent design system as the custom-marp-presentation skill — pastel top/bottom border accents, Noto Sans JP + Fira Code fonts, a bar-style header on every content slide, and a gradient underline on the title slide. Use this whenever the user asks for a Slidev deck, wants the Marp presentation design "in Slidev too" / "as a Slidev version" / "with animations", or wants an interactive/exportable presentation with this specific look — even if they don't spell out the design and just say something like "make this into a Slidev deck" or "same design but with slidev".
 ---
 
